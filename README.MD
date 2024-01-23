@@ -2,5 +2,5 @@
 ### ya ochen ustal za eto vremya
 mne nravyatsya snikersy
 ```
-print("i like snikers")
+print("i am nuck figgers")
 ```
